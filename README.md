@@ -40,13 +40,7 @@
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=McSon2&theme=react&show_icons=true&count_private=true"/>
   <img width="49%" src="https://streak-stats.demolab.com/?user=McSon2&theme=react"/>
-</p>
-
-<p align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=McSon2&theme=react&layout=compact&langs_count=6"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=McSon2&repo=SSP&theme=react&show_owner=true"/>
 </p>
 
  **<h3 align="left">Support Me</h3>**
